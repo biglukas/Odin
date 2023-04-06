@@ -1,0 +1,18 @@
+.odd-number {
+    background-color: rgb(254, 187, 224);
+}
+
+#second {
+    color: blue;
+    font-size: 24px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(144, 255, 149);
+    font-size: 24px;
+    font-weight: bold; 
+}
